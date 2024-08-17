@@ -1,0 +1,11 @@
+.customInp{
+    border: 1px solid black;
+}
+.labelCustom{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+.custInpDiv{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
